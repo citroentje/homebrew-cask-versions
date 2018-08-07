@@ -1,6 +1,6 @@
 cask 'omegat-dev' do
-  version '4.1.4'
-  sha256 'cff08c41cc6f9c8eac76e3bf4756d76feade57dbd0ddadcc55f1cab1d5446039'
+  version '4.1.5'
+  sha256 'e7f6dbe8633fbbcb913c1f13103a4aab63b31b43e5a7a2bfea245c101541c551'
 
   # downloads.sourceforge.net/omegat was verified as official when first introduced to the cask
   url "https://downloads.sourceforge.net/omegat/OmegaT%20-%20Latest/OmegaT%20#{version}/OmegaT_#{version}_Beta_Mac_Signed.zip"
